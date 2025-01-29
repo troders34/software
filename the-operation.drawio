@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="Rl22nojB6Xttbjnxy_bW">
-    <mxGraphModel dx="680" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="931" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="eUQJTLkNMrvtOKzA322Z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUQJTLkNMrvtOKzA322Z-3" target="eUQJTLkNMrvtOKzA322Z-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eUQJTLkNMrvtOKzA322Z-14" value="future change" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eUQJTLkNMrvtOKzA322Z-6">
+        <mxCell id="eUQJTLkNMrvtOKzA322Z-14" value="future changes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eUQJTLkNMrvtOKzA322Z-6">
           <mxGeometry x="-0.02" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
