@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="2">
   <diagram name="Oracle VirtualBox snapshot" id="Rl22nojB6Xttbjnxy_bW">
     <mxGraphModel dx="931" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,6 +94,53 @@
         </mxCell>
         <mxCell id="eUQJTLkNMrvtOKzA322Z-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;How Snapshot in Oracle VM VirtualBox works&lt;/h1&gt;&lt;p&gt;This flowchart visualizes the operation of snapsot feature on Oracle Virtual Machine VirtualBox.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="560" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZqgumgO5FEsu6kO9VH2V" name="MTI Doppler">
+    <mxGraphModel dx="1113" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e6REnJBTHGOFhiStDokc-2" value="Doppler Radar" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6REnJBTHGOFhiStDokc-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite_dish;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e6REnJBTHGOFhiStDokc-5" value="" style="shape=mxgraph.signs.transportation.airplane_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="65" width="99" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e6REnJBTHGOFhiStDokc-6" value="" style="shape=mxgraph.signs.transportation.airplane_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="140" width="99" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e6REnJBTHGOFhiStDokc-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.08;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.91;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="e6REnJBTHGOFhiStDokc-3" target="e6REnJBTHGOFhiStDokc-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="sourcePoint" />
+            <mxPoint x="300" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6REnJBTHGOFhiStDokc-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.08;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="e6REnJBTHGOFhiStDokc-6" target="e6REnJBTHGOFhiStDokc-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="270" as="sourcePoint" />
+            <mxPoint x="590" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6REnJBTHGOFhiStDokc-10" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="90" as="sourcePoint" />
+            <mxPoint x="910" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6REnJBTHGOFhiStDokc-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Velocity&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6REnJBTHGOFhiStDokc-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Velocity&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6REnJBTHGOFhiStDokc-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.ytimg.com/vi/6Y2pBHZD0sE/mqdefault.jpg;" vertex="1" parent="1">
+          <mxGeometry x="346.67" y="230" width="426.67" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
